@@ -1,5 +1,11 @@
-<dependency>
-    <groupId>io.quarkus</groupId>
-    <artifactId>quarkus-development-mode-spi</artifactId>
-    <version>3.7.2</version>
-</dependency>
+  <dependencyManagement>
+    <dependencies>
+
+        <dependency>
+            <groupId>io.quarkus</groupId>
+            <artifactId>quarkus-development-mode-spi</artifactId>
+            <version>3.7.2</version>
+        </dependency>
+
+    </dependencies>
+  </dependencyManagement>
