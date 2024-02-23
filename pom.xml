@@ -3,19 +3,8 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.mend.adhoc</groupId>
-  <artifactId>adoc-1</artifactId>
-  <version>1</version>
+  <groupId>io.quarkus</groupId>
+  <artifactId>quarkus-development-mode-spi</artifactId>
+  <version>3.7.2</version>
  
-  <dependencyManagement>
-    <dependencies>
-
-        <dependency>
-            <groupId>io.quarkus</groupId>
-            <artifactId>quarkus-development-mode-spi</artifactId>
-            <version>3.7.2</version>
-        </dependency>
-
-    </dependencies>
-  </dependencyManagement>
 </project>
